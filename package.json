@@ -1,0 +1,25 @@
+{
+  "name": "learning-webgl",
+  "version": "1.0.0",
+  "description": "Learning WebGL.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtysky/LearningWebGL.git"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "dtysky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtysky/LearningWebGL/issues"
+  },
+  "homepage": "https://github.com/dtysky/LearningWebGL#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
